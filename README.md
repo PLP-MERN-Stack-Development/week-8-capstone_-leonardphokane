@@ -1,52 +1,100 @@
-# MERN Stack Capstone Project
 
-This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.
+# 🌍 Community Finance Dashboard
 
-## Assignment Overview
+A modular, recruiter-facing React app built to track financial goals and transactions in real time. Designed with Tailwind CSS, legacy-grade clarity, and ethical tech storytelling.
 
-You will:
-1. Plan and design a full-stack MERN application
-2. Develop a robust backend with MongoDB, Express.js, and Node.js
-3. Create an interactive frontend with React.js
-4. Implement testing across the entire application
-5. Deploy the application to production
+---
 
-## Getting Started
+## 🧠 Legacy-Driven Impact
+This project reflects a commitment to modular clarity, ethical design, and Afro-futurist storytelling. Built not just to impress recruiters — but to inspire community uplift.
 
-1. Accept the GitHub Classroom assignment
-2. Clone the repository to your local machine
-3. Follow the instructions in the `Week8-Assignment.md` file
-4. Plan, develop, and deploy your capstone project
+---
 
-## Files Included
+## 🚀 Live Preview
 
-- `Week8-Assignment.md`: Detailed assignment instructions
+> Coming soon — deployed via Netlify/Vercel
 
-## Requirements
+---
 
-- Node.js (v18 or higher)
-- MongoDB (local installation or Atlas account)
-- npm or yarn
-- Git and GitHub account
-- Accounts on deployment platforms (Render/Vercel/Netlify/etc.)
+## 📸 Screenshots
 
-## Project Ideas
+### 🏠 Dashboard Welcome
+![Dashboard Welcome](./src/assets/dashboard-welcome.png)
 
-The `Week8-Assignment.md` file includes several project ideas, but you're encouraged to develop your own idea that demonstrates your skills and interests.
+### 💳 Transactions & 🎯 Goals
+![Dashboard UI](./src/assets/dashboard-ui.png)
 
-## Submission
+### ⚙️ Webpack Build Confirmation
+![Webpack Success](./src/assets/webpack-success.png)
 
-Your project will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
 
-1. Commit and push your code regularly
-2. Include comprehensive documentation
-3. Deploy your application and add the live URL to your README.md
-4. Create a video demonstration and include the link in your README.md
+---
 
-## Resources
+## 🧱 Tech Stack
 
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [Express.js Documentation](https://expressjs.com/)
-- [React Documentation](https://react.dev/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [GitHub Classroom Guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom) 
+- **Frontend**: React, Tailwind CSS
+- **Routing**: React Router v6
+- **Build Tool**: Create React App (CRA)
+- **Deployment**: Netlify / Vercel (optional)
+
+---
+
+## 📊 Features
+
+- Responsive dashboard layout
+- Sample data for transactions and goals
+- Dynamic progress bars with hover polish
+- Modular components (`TransactionList`, `GoalTracker`)
+- Legacy-grade UI clarity and recruiter polish
+
+---
+
+## 🧪 Local Setup
+
+
+git clone https://github.com/leonardphokane/community-finance-app.git
+cd client
+npm install
+npm start
+
+---
+
+## 🛠️ Dev Notes
+Tailwind v3.4.1 used for CRA compatibility
+
+Sample data injected via props in Dashboard.jsx
+
+No backend wiring — frontend-only demo
+
+Ready for CI/CD screenshots and submission
+
+---
+
+
+## 📂 Repo Structure
+Code
+client/
+├── src/
+│   ├── components/
+│   │   ├── TransactionList.jsx
+│   │   └── GoalTracker.jsx
+│   ├── pages/
+│   │   └── Dashboard.jsx
+│   ├── App.jsx
+│   └── index.css
+└── public/
+
+---
+
+## 👨🏾‍💻 Built By
+Leonard Phokane 
+Founder @ UbuntuFlow
+Oracle & Microsoft Certified AI Associate
+Afro-futurist Technologist | Ethical AI Advocate | Full-Stack Developer
+
+---
+
+## 📬 Contact
+📧 leonardphokane1@gmail.com 
+🌐 LinkedIn
+
