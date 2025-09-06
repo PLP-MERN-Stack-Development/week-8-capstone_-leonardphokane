@@ -1,29 +1,33 @@
-📘 Final README.md — Community Finance Dashboard
-Here’s a complete scaffold you can copy into your repo:
 
-markdown
 # 🌍 Community Finance Dashboard
 
 A modular, recruiter-facing React app built to track financial goals and transactions in real time. Designed with Tailwind CSS, legacy-grade clarity, and ethical tech storytelling.
 
 ---
 
+## 🧠 Legacy-Driven Impact
+This project reflects a commitment to modular clarity, ethical design, and Afro-futurist storytelling. Built not just to impress recruiters — but to inspire community uplift.
+
+---
+
 ## 🚀 Live Preview
 
-> Coming soon — deployed via Netlify/Vercel
+> ✅ Deployed via GitHub Pages  
+> [Explore the Community Finance App](https://plp-mern-stack-development.github.io/week-8-capstone_-leonardphokane/)
 
 ---
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard Welcome
-![Dashboard Welcome](./src/assets/dashboard-welcome.png)
+### 🏠 Dashboard Welcome  
+![Dashboard Welcome](community-finance-app/client/src/assets/dashboard-welcome.png)
 
-### 💳 Transactions & 🎯 Goals
-![Dashboard UI](./src/assets/dashboard-ui.png)
+### 💳 Transactions & 🎯 Goals  
+![Dashboard UI](community-finance-app/client/src/assets/dashboard-ui.png)
 
-### ⚙️ Webpack Build Confirmation
-![Webpack Success](./src/assets/webpack-success.png)
+### ⚙️ Webpack Build Confirmation  
+![Webpack Success](community-finance-app/client/src/assets/webpack-success.png)
+
 
 
 ---
@@ -49,12 +53,15 @@ A modular, recruiter-facing React app built to track financial goals and transac
 
 ## 🧪 Local Setup
 
-```bash
+
 git clone https://github.com/leonardphokane/community-finance-app.git
 cd client
 npm install
 npm start
-🛠️ Dev Notes
+
+---
+
+## 🛠️ Dev Notes
 Tailwind v3.4.1 used for CRA compatibility
 
 Sample data injected via props in Dashboard.jsx
@@ -63,10 +70,10 @@ No backend wiring — frontend-only demo
 
 Ready for CI/CD screenshots and submission
 
-👨🏾‍💻 Built By
-Leonard Phokane Founder @ UbuntuFlow Oracle & Microsoft Certified AI Associate Afro-futurist Technologist | Ethical AI Advocate
+---
 
-📂 Repo Structure
+
+## 📂 Repo Structure
 Code
 client/
 ├── src/
@@ -78,8 +85,38 @@ client/
 │   ├── App.jsx
 │   └── index.css
 └── public/
-📬 Contact
-📧 leonardphokane1@gmail.com 🌐 LinkedIn
 
-🧠 Legacy-Driven Impact
-This project reflects a commitment to modular clarity, ethical design, and Afro-futurist storytelling. Built not just to impress recruiters — but to inspire community uplift.
+
+---
+
+## 📬 Final Submission
+
+✅ Week 8 Capstone Submitted  
+GitHub Repo: https://github.com/PLP-MERN-Stack-Development/week-8-capstone_-leonardphokane  
+Live Preview: https://plp-mern-stack-development.github.io/week-8-capstone_-leonardphokane/
+
+Includes:
+- Modular React dashboard with sample data
+- Tailwind CSS styling and responsive layout
+- Screenshots embedded in README (`src/assets`)
+- Final build compiled via Webpack
+- `.gitattributes` added for cross-platform consistency
+
+## 👨🏾‍💻 Built By
+Leonard Phokane 
+Founder @ UbuntuFlow
+Oracle & Microsoft Certified AI Associate
+Afro-futurist Technologist | Ethical AI Advocate | Full-Stack Developer
+
+---
+
+## 📬 Contact
+📧 [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/leonard-phokane)
+🌐 [Portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)
+
+---
+
+> Built with legacy-grade clarity and recruiter-facing polish.
+
+— Leonard Phokane, UbuntuFlow Founder
