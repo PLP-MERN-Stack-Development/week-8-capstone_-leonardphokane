@@ -12,20 +12,22 @@ This project reflects a commitment to modular clarity, ethical design, and Afro-
 
 ## 🚀 Live Preview
 
-> Coming soon — deployed via Netlify/Vercel
+> ✅ Deployed via GitHub Pages  
+> [Explore the Community Finance App](https://plp-mern-stack-development.github.io/week-8-capstone_-leonardphokane/)
 
 ---
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard Welcome
-![Dashboard Welcome](./src/assets/dashboard-welcome.png)
+### 🏠 Dashboard Welcome  
+![Dashboard Welcome](community-finance-app/client/src/assets/dashboard-welcome.png)
 
-### 💳 Transactions & 🎯 Goals
-![Dashboard UI](./src/assets/dashboard-ui.png)
+### 💳 Transactions & 🎯 Goals  
+![Dashboard UI](community-finance-app/client/src/assets/dashboard-ui.png)
 
-### ⚙️ Webpack Build Confirmation
-![Webpack Success](./src/assets/webpack-success.png)
+### ⚙️ Webpack Build Confirmation  
+![Webpack Success](community-finance-app/client/src/assets/webpack-success.png)
+
 
 
 ---
@@ -84,7 +86,21 @@ client/
 │   └── index.css
 └── public/
 
+
 ---
+
+## 📬 Final Submission
+
+✅ Week 8 Capstone Submitted  
+GitHub Repo: https://github.com/PLP-MERN-Stack-Development/week-8-capstone_-leonardphokane  
+Live Preview: https://plp-mern-stack-development.github.io/week-8-capstone_-leonardphokane/
+
+Includes:
+- Modular React dashboard with sample data
+- Tailwind CSS styling and responsive layout
+- Screenshots embedded in README (`src/assets`)
+- Final build compiled via Webpack
+- `.gitattributes` added for cross-platform consistency
 
 ## 👨🏾‍💻 Built By
 Leonard Phokane 
@@ -95,6 +111,12 @@ Afro-futurist Technologist | Ethical AI Advocate | Full-Stack Developer
 ---
 
 ## 📬 Contact
-📧 leonardphokane1@gmail.com 
-🌐 LinkedIn
+📧 [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/leonard-phokane)
+🌐 [Portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)
 
+---
+
+> Built with legacy-grade clarity and recruiter-facing polish.
+
+— Leonard Phokane, UbuntuFlow Founder
